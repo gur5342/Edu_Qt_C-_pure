@@ -32,7 +32,7 @@ private:
 int main()
 {
     CMyData a;
-    a.SetData(5);
+    a.SetData(5); //testzz
 
     cout << a.GetData() << endl;
 
